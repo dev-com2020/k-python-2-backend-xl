@@ -26,7 +26,8 @@ def fetch_users2(imie):
     print("Pobieram innych użytkowników...", imie)
 
 fetch_users()
-fetch_users2("imie")
+fetch_users2("Tomek")
+fetch_users2("Pobieram")
 
 def dekorator(func):
 
