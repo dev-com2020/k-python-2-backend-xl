@@ -13,3 +13,4 @@ else:
 finally:
     print("wykonam się zawsze!!!")
 
+print("To jest nowy kod od Tomka")
