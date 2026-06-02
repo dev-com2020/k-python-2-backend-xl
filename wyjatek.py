@@ -13,4 +13,3 @@ else:
 finally:
     print("wykonam się zawsze!!!")
 
-print("Tutaj kolejna część programu")
